@@ -12,6 +12,7 @@ td {
     background: whitesmoke;
     width: 30px;
     height: 30px;
+    transition: background-color 0.3s ease;
 }
 
 .living-cell {
@@ -53,6 +54,7 @@ a, table {
     font-size: 30px;
     border: 1px solid indigo;
     border-radius: 50%;
+    transition: background-color 0.3s ease;
 }
 
 
