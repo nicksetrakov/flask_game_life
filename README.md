@@ -21,3 +21,6 @@ python -m pip install --upgrade pip
 Install the dependency on the requirements.txt file: pip install -r requirements.txt
 
 Starting the project: From the directory where app.py is: python app.py and navigate to http://127.0.0.1:5000/ in a browser.
+
+![image_2023-08-30_22-27-45.png](screenshots%2Fimage_2023-08-30_22-27-45.png)
+![image_2023-08-30_22-28-13.png](screenshots%2Fimage_2023-08-30_22-28-13.png)
